@@ -1,0 +1,34 @@
+.auth-container {
+    width: 400px;
+    margin: 60px auto;
+    padding: 25px 30px;
+    border-radius: 2px;
+    box-shadow: 0 0 10px 5px #0000007a;
+    text-align: center;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    border-radius: 2px;
+}
+
+.btn-auth {
+    border-radius: 2px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    font-weight:600;
+}
+
+#btn-fb {
+    background-color: rgb(96, 96, 221);
+    color: white;
+}
+
+#btn-google {
+
+}
+
+#auth-btn-submit {
+    background-color: rgb(107, 179, 107);
+    color: white;
+}
